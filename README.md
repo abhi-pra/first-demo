@@ -1,3 +1,4 @@
 # first-demo
-that is ny first repository
-Author = Abhishek
+that is my first repository
+<br>
+Author - Abhishek
